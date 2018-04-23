@@ -1,4 +1,4 @@
-# CharteredAccountants (Small Chartered Accountant Management project)
+# CharteredAccountants (Small Chartered Accountant Web Management project)
 
 # Introduction
 This is a Charted Accountant System which is capable to manage all the internal and external issues related to management that a Charted Accountant firm faces. This application is able to manage all the users, managers (admins), and the entire wide spread clients. The admin/manager can check the status of their users/workers and also they can check the current active users working on the system, and there is a platform on which admin/manager can easily communicate and share their tasks, events etc. After a task is assigned to a specific user, other users are also allowed to comment their view or the status of the task.
