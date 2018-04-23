@@ -1,0 +1,7 @@
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\bin\CharteredAccountantsFYP.dll.config
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\bin\CharteredAccountantsFYP.dll
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\bin\CharteredAccountantsFYP.pdb
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\obj\Debug\CharteredAccountants.csprojResolveAssemblyReference.cache
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\obj\Debug\CharteredAccountants.csproj.CoreCompileInputs.cache
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\obj\Debug\CharteredAccountantsFYP.dll
+C:\Users\Atezaz\Desktop\My Code\CharteredAccountantsFYP\CharteredAccountantsFYP\obj\Debug\CharteredAccountantsFYP.pdb
