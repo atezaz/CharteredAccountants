@@ -5,16 +5,30 @@ This is a Charted Accountant System which is capable to manage all the internal 
 In a nutshell, this system is basically a task, event and client management system. In the client module the system helps to manage and keeps the backup (up to 2 levels) of all the data (pdf or any other type). The data for Tax, Audit and Corporate is managed yearly. This application also provide reports related to events and tasks done/pending/expired, online users, disable users.
 
 Technologies Used
+
 For frontend/Client-side:
-  o HTML, HTML5 & CSS3 (For Responsiveness) I know Bootstrap and foundation would be much easier to use but I wanted to explore and learn HTML5 & CSS3 and to code by my self
+
+  o HTML, HTML5 & CSS3 (For Responsiveness)
+  
   o JavaScript
+  
   o JQuery
+  
 For Backend/Server-side:
+
   o Visual Studio 2012
+  
   o ASP.NET 4.0/4.5
+  
 Programming Language:
+
   o C#
+  
 For Database Communication
+
   o LINQ (Language-Integrated Query)
+  
 Database
+
   o SQL Server 2012
+  
