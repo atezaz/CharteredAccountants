@@ -8,13 +8,13 @@ In a nutshell, this system is basically a task, event and client management syst
 
 Technologies Used:
 
-For frontend/Client-side: HTML, HTML5 & CSS3 (For Responsiveness), JavaScript, JQuery
+- For frontend/Client-side: HTML, HTML5 & CSS3 (For Responsiveness), JavaScript, JQuery
   
-For Backend/Server-side: Visual Studio 2012, ASP.NET 4.0/4.5
+- For Backend/Server-side: Visual Studio 2012, ASP.NET 4.0/4.5
   
-Programming Language: C#
+- Programming Language: C#
   
-For Database Communication: LINQ (Language-Integrated Query)
+- For Database Communication: LINQ (Language-Integrated Query)
   
-Database: SQL Server 2012
+- Database: SQL Server 2012
   
